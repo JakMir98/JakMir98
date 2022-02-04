@@ -1,4 +1,10 @@
-### Hi there 👋
+<h2 align="center">
+  Hello there 👋
+</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JakMir98&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" align = "center"/>
+</p>
 
 <!--
 **JakMir98/JakMir98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
